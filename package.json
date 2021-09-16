@@ -4,6 +4,7 @@
   "description": "little tiers",
   "main": "http_server.js",
   "scripts": {
+    "start": "node http_server.js",
     "test": "echo \"Error: no test specified\""
   },
   "repository": {
