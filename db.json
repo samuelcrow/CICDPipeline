@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "name": "Sylvia Marquardt",
+      "dob": "1950-2-26",
+      "email": "Sylvia.Marquardt@hotmail.com",
+      "username": "Sylvia.Marquardt72",
+      "password": "qPA2Ai9CDaNgUr_",
+      "phone": "900-757-5480",
+      "streetaddress": "3786 Misael Turnpike",
+      "citystatezip": "Gusikowskichester, MI 41023",
+      "latitude": "45.8194",
+      "longitude": "-94.7926",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jehnglynn/128.jpg"
+    },
+    {
+      "name": "Alexandria Cassin",
+      "dob": "1987-7-26",
+      "email": "Alexandria3@yahoo.com",
+      "username": "Alexandria.Cassin",
+      "password": "h5qwrZXsJFPdzGB",
+      "phone": "325-366-5369 x2070",
+      "streetaddress": "35382 Trycia Station",
+      "citystatezip": "Port Okey, TX 96766",
+      "latitude": "-22.8725",
+      "longitude": "27.5993",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/pierre_nel/128.jpg"
+    },
+    {
+      "name": "Miss Myrtis Reinger",
+      "dob": "1966-3-25",
+      "email": "Myrtis.Reinger@yahoo.com",
+      "username": "Myrtis_Reinger99",
+      "password": "cQFa1bW4czU45PK",
+      "phone": "1-852-756-2930 x13758",
+      "streetaddress": "4057 Schaden Flat",
+      "citystatezip": "Cyrilview, MS 43839-3313",
+      "latitude": "63.5611",
+      "longitude": "-52.9598",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/conspirator/128.jpg"
+    },
+    {
+      "name": "Solon Walter",
+      "dob": "1977-8-2",
+      "email": "Solon_Walter38@gmail.com",
+      "username": "Solon_Walter",
+      "password": "U7tU4klFzzKKYrW",
+      "phone": "(492) 505-1572 x895",
+      "streetaddress": "5936 Dashawn Villages",
+      "citystatezip": "Reynaport, DE 16968",
+      "latitude": "-2.2693",
+      "longitude": "-148.7328",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/zauerkraut/128.jpg"
+    },
+    {
+      "name": "Danielle Abbott",
+      "dob": "1953-10-14",
+      "email": "Danielle0@hotmail.com",
+      "username": "Danielle.Abbott51",
+      "password": "yHE0l3ndYuXrkje",
+      "phone": "1-425-602-7147 x722",
+      "streetaddress": "24453 Leffler Prairie",
+      "citystatezip": "Rheaview, OH 55702",
+      "latitude": "44.4155",
+      "longitude": "-54.8431",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/soyjavi/128.jpg"
+    },
+    {
+      "name": "Christy Pagac",
+      "dob": "1962-7-15",
+      "email": "Christy_Pagac96@yahoo.com",
+      "username": "Christy_Pagac",
+      "password": "V5QfZ8qmZptUfSc",
+      "phone": "476.797.4492 x353",
+      "streetaddress": "83266 Devante Trail",
+      "citystatezip": "Hettiefurt, TN 69735",
+      "latitude": "-87.7414",
+      "longitude": "153.4791",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/meln1ks/128.jpg"
+    },
+    {
+      "name": "Estella West",
+      "dob": "1965-6-22",
+      "email": "Estella34@gmail.com",
+      "username": "Estella_West",
+      "password": "3_lt1TCnPL5Nv_d",
+      "phone": "312.671.2946 x383",
+      "streetaddress": "2715 Era Square",
+      "citystatezip": "Lake Zachary, NC 96218",
+      "latitude": "-0.6408",
+      "longitude": "164.5619",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/bruno_mart/128.jpg"
+    },
+    {
+      "name": "Mitchel Pacocha",
+      "dob": "1969-12-22",
+      "email": "Mitchel40@gmail.com",
+      "username": "Mitchel.Pacocha",
+      "password": "nuiGa7BCuhd7Cb6",
+      "phone": "343.976.4776",
+      "streetaddress": "154 Ryleigh Groves",
+      "citystatezip": "Lake Darrenbury, CA 73118",
+      "latitude": "24.1665",
+      "longitude": "165.4786",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/moscoz/128.jpg"
+    },
+    {
+      "name": "Queenie Thompson",
+      "dob": "1942-10-6",
+      "email": "Queenie_Thompson76@gmail.com",
+      "username": "Queenie.Thompson",
+      "password": "e4gx5cAEyq2yb9B",
+      "phone": "(814) 417-2374",
+      "streetaddress": "07016 Zboncak Estates",
+      "citystatezip": "Gerlachport, NH 43759-7715",
+      "latitude": "-70.5552",
+      "longitude": "-111.2799",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/cherif_b/128.jpg"
+    }
+  ]
+}
