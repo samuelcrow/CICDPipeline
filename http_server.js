@@ -55,7 +55,10 @@ app.post('/add', function(req, res){
 // start server
 // -----------------------
 
-app.listen(3000, function(){
+var serverPort = 8080;
+
+var port = process.env.PORT || serverPort;
+app.listen(port, function(){
     console.log('Running on port 3000!')
 })
 //
