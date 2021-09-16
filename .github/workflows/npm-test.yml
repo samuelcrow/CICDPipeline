@@ -32,6 +32,6 @@ jobs:
 
       - run: npm test
       
-      - run: node ../../http-server.js
+      - run: node ../../../../http-server.js
       
-      - run: node ../../puppeteer.js
+      - run: node ../../../../puppeteer.js
