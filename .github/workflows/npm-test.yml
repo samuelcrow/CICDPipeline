@@ -31,7 +31,3 @@ jobs:
       - run: npm run build --if-present
 
       - run: npm test
-      
-      - run: node ../../../../http-server.js
-      
-      - run: node ../../../../puppeteer.js
